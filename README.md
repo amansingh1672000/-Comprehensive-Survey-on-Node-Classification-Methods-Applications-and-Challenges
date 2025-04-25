@@ -1,4 +1,4 @@
-Comprehensive-Survey-on-Node-Classification-Methods-Applications-and-Challenges
+**Comprehensive-Survey-on-Node-Classification-Methods-Applications-and-Challenges**
 
 This repository includes all the referenced papers, along with the sections covered in the survey titled
 A Comprehensive Survey on Node Classification Methods,
